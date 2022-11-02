@@ -1,2 +1,4 @@
 .env
 _*_
+
+airflow-exercise/logs/*
